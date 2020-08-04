@@ -1,3 +1,4 @@
+![me saying hi](https://github.com/gabrielbussolo/gabrielbussolo/blob/master/gabriel_hi.png "Me saying hi")
 ## Hi there 👋
 ### Welcome to my profile 🙋‍♂️
 
