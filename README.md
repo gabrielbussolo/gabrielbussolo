@@ -2,7 +2,7 @@
 ### Welcome to my profile 🙋‍♂️
 
 Here are some linkn where you can find me
-![using social media](gabriel_pc.gif "Me using social media")
+![using social media](https://github.com/gabrielbussolo/gabrielbussolo/blob/master/gabriel_pc.gif "Me using social media")
 
 ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabrielbussolo)
 ![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gbussolodev)
