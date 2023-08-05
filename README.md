@@ -4,9 +4,13 @@
 🇧🇷 Born in Floripa, Brazil <br>
 :tr: Living in Istanbul, Turkey
 
-### What I'm working on 👨‍💻
+### My interests are golang and kubernetes 💙👨‍💻
 
-💙 Currently I'm making observability easier with [@calyptia](https://calyptia.com) <br>
+### What I can do?
+
+- CLI's
+- Extend k8s (with operators, plugins, etc)
+- RESTful API's
 
 ### Find me elsewhere 🌎
 
