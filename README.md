@@ -6,7 +6,7 @@
 
 ### My interests are golang and kubernetes 💙👨‍💻
 
-### What I can do?
+### What can I do?
 
 - CLI's
 - Extend k8s (with operators, plugins, etc)
