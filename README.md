@@ -2,7 +2,7 @@
 
 ❣️ Passionate software engineer <br>
 🇧🇷 Born in Floripa, Brazil <br>
-:tr: Living in Istanbul, Turkey
+:it: Living in Pisa, Italy
 
 ### My interests are golang and kubernetes 💙👨‍💻
 
